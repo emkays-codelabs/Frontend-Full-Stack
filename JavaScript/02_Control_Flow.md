@@ -1,7 +1,7 @@
 
 ---
 
-# 📘 02_Control_Flow – JavaScript Tutorial
+# 📘 02_Control_Flow 
 
 This module covers:
 
